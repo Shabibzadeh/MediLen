@@ -1,0 +1,8 @@
+D:\__4WebHost\GitHub\SLJs\SLJs.Web\bin\SLJs.Web.dll
+D:\__4WebHost\GitHub\SLJs\SLJs.Web\bin\SLJs.Web.pdb
+D:\__4WebHost\GitHub\SLJs\SLJs.Web\obj\Debug\SLJs.Web.dll
+D:\__4WebHost\GitHub\SLJs\SLJs.Web\obj\Debug\SLJs.Web.pdb
+C:\Users\MediLen\Documents\GitHub\MediLen\SLJs.Web\bin\SLJs.Web.dll
+C:\Users\MediLen\Documents\GitHub\MediLen\SLJs.Web\bin\SLJs.Web.pdb
+C:\Users\MediLen\Documents\GitHub\MediLen\SLJs.Web\obj\Debug\SLJs.Web.dll
+C:\Users\MediLen\Documents\GitHub\MediLen\SLJs.Web\obj\Debug\SLJs.Web.pdb

@@ -1,0 +1,11 @@
+D:\__4WebHost\GitHub\SLJs\SLJs\obj\Debug\App.g.i.cs
+D:\__4WebHost\GitHub\SLJs\SLJs\obj\Debug\MainPage.g.i.cs
+D:\__4WebHost\GitHub\SLJs\SLJs\obj\Debug\SLJs.g.resources
+D:\__4WebHost\GitHub\SLJs\SLJs\Bin\Debug\SLJs.dll
+D:\__4WebHost\GitHub\SLJs\SLJs\Bin\Debug\SLJs.pdb
+D:\__4WebHost\GitHub\SLJs\SLJs\Bin\Debug\AppManifest.xaml
+D:\__4WebHost\GitHub\SLJs\SLJs\Bin\Debug\SLJs.xap
+D:\__4WebHost\GitHub\SLJs\SLJs\Bin\Debug\SLJsTestPage.html
+D:\__4WebHost\GitHub\SLJs\SLJs\obj\Debug\SLJs.dll
+D:\__4WebHost\GitHub\SLJs\SLJs\obj\Debug\SLJs.pdb
+D:\__4WebHost\GitHub\SLJs\SLJs\obj\Debug\XapCacheFile.xml
