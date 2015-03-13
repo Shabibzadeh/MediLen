@@ -11,7 +11,9 @@
         <WebBrowser x:Name="browser" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,0,0,40" />
         <Grid x:Name="StatusGrid" Background="Yellow" >
             <StackPanel HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10" Orientation="Horizontal">
+                <!--
                 <Button x:Name= "LobBrowser" Content="run LOB" Width="90" Height="20"  Click="btnCallHtml_Click" />
+                -->
                 <Button x:Name= "OobBrowser" Content="run OOB" Width="90" Height="20"  Click="RunBrowser_Click" />
             </StackPanel>
         </Grid>        
